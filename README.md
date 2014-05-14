@@ -1,6 +1,6 @@
 # README
 
-Ini adalah dokumen penting.
+Ini ialah dokumen penting.
 
 Ini adalah baris kedua.
 
